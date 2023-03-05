@@ -5,3 +5,4 @@
 - Typescript
 - Tailwind CSS
 - Vite + SWC
+- React Router
